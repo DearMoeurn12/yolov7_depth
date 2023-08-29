@@ -1,4 +1,4 @@
-#YOLOv7 ROS2
+YOLOv7 ROS2
 
 This ROS2 package provides a Python node for object detection using the YOLOv7 algorithm.
 
